@@ -5,13 +5,13 @@
 > Anki is a company whose products always seem to delight.
 
 
-[Codelab Adapter](https://adapterv2.codelab.club) is a software that connect Scratch 3.0 to the open-source hardware, IoT and AI.
+[Codelab Adapter](https://adapter.codelab.club) is a software that connect Scratch 3.0 to the open-source hardware, IoT and AI.
 
-We make a [Codelab Adapter](https://adapterv2.codelab.club) extension to connect Vector to Scratch 3.0. It just like Cozmo codelab.
+We make a [Codelab Adapter](https://adapter.codelab.club) extension to connect Vector to Scratch 3.0. It just like Cozmo codelab.
 
 ![](/img/scratch3-vector_2b21057e.png)
 
-Now the Vector extension is built into the [Codelab Adapter](https://adapterv2.codelab.club)!
+Now the Vector extension is built into the [Codelab Adapter](https://adapter.codelab.club)!
 
 # Video tutorial
 
